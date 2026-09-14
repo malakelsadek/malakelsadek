@@ -50,6 +50,5 @@
 <img width="32" src="icons/chatgpt.svg" />&nbsp;&nbsp;
 <img width="32" src="icons/codex.svg" />&nbsp;&nbsp;
 <img width="32" src="icons/antigravity.svg" />&nbsp;&nbsp;
-<img width="32" src="icons/codeblocks.svg" />&nbsp;&nbsp;
 
 </div>
