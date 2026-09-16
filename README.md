@@ -3,7 +3,7 @@
 <img align="left" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1500&color=E4E4E4&vCenter=true&width=440&lines=hi%2C+i'm+malak+:)" alt="hi, i'm malak :)" />
  -->
 <div align="center">
-<a href="https://malakelsadek.github.io/3droomportfolio/"><img src="https://img.shields.io/badge/view%203d%20portfolio-000000?style=for-the-badge&logoColor=white" /></a>
+<a href="https://malakelsadek.github.io/3d-room-portfolio/"><img src="https://img.shields.io/badge/view%203d%20portfolio-000000?style=for-the-badge&logoColor=white" /></a>
 <a href="mailto:elsadek.malak@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logoColor=white" /></a>
 <a href="https://linkedin.com/in/malakelsadek"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
