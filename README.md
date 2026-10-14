@@ -1,3 +1,5 @@
+<img width="1024" height="205" alt="image" src="https://github.com/user-attachments/assets/99197fed-c2f2-4bca-a9a8-3ab640522752" />
+
 <div align="center">
 <!--
 <img align="left" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1500&color=5B7B3A&vCenter=true&width=440&lines=hi%2C+i'm+malak+:)" alt="hi, i'm malak :)" />
