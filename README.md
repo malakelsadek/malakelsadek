@@ -5,17 +5,12 @@
 <!--
 <img align="left" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1500&color=5B7B3A&vCenter=true&width=440&lines=hi%2C+i'm+malak+:)" alt="hi, i'm malak :)" />
  -->
-<!--
 <div align="center">
-  <img src="banner.svg" alt="hey, i'm malak" />
-</div>
--->
-<div align="center">
-<img src="flower-left.svg" height="56" align="middle" />&nbsp;&nbsp;
-<a href="https://malakelsadek.github.io/3d-room-portfolio/"><img align="middle" src="https://img.shields.io/badge/view%203d%20portfolio-5B7B3A?style=for-the-badge&logoColor=white" /></a>
-<a href="mailto:elsadek.malak@gmail.com"><img align="middle" src="https://img.shields.io/badge/email-5B7B3A?style=for-the-badge&logoColor=white" /></a>
-<a href="https://linkedin.com/in/malakelsadek"><img align="middle" src="https://img.shields.io/badge/linkedin-5B7B3A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-<img src="flower-right.svg" height="56" align="middle" />
+<img src="planet-left.svg" height="56" align="middle" />&nbsp;&nbsp;
+<a href="https://malakelsadek.github.io/3d-room-portfolio/"><img align="middle" src="https://img.shields.io/badge/view%203d%20portfolio-3A3F4B?style=for-the-badge&logoColor=white" /></a>
+<a href="mailto:elsadek.malak@gmail.com"><img align="middle" src="https://img.shields.io/badge/email-3A3F4B?style=for-the-badge&logoColor=white" /></a>
+<a href="https://linkedin.com/in/malakelsadek"><img align="middle" src="https://img.shields.io/badge/linkedin-3A3F4B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<img src="planet-right.svg" height="56" align="middle" />
 </div>
 
 <!--
